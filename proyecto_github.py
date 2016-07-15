@@ -14,7 +14,15 @@ resta(a,b)
 
 def suma(a,b):
 
-    f=a+b
-    print("La suma es",f)
+    f=a+bprint("La suma es",f)
 
 suma(a,b)
+
+
+def multiplicacion(a,b):
+
+    f=a*b
+
+    print("La Multiplicacion es: ",f)
+
+multiplicacion(a,b)
